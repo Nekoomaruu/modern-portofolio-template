@@ -2,13 +2,11 @@
 
 A clean, open-source portfolio template for developers. Built with **React + Vite + Tailwind CSS**. Dark by default with a one-tap light mode, fully responsive, scroll-reveal animations, and a single config file to make it yours in minutes.
 
-> **Demo:** [your-demo-url](https://your-demo-url.example.com)
+> **Demo:** [Demo Url](https://modern-portofolio-template-omega.vercel.app/)
 
 ## Screenshot
 
-![Template screenshot](./public/placeholder.svg)
-
-*Replace `public/placeholder.svg` with a real screenshot of your deployed site.*
+![Template screenshot](./public/preview.svg)
 
 ## ✨ Features
 
