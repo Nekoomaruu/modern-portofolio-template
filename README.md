@@ -31,8 +31,8 @@ A clean, open-source portfolio template for developers. Built with **React + Vit
 
 ```bash
 # 1. Clone
-git clone https://github.com/your-username/minimal-mono-portfolio.git
-cd minimal-mono-portfolio
+git clone https://github.com/Nekoomaruu/modern-portofolio-template.git
+cd modern-portfolio-template
 
 # 2. Install
 npm install
