@@ -6,7 +6,7 @@ A clean, open-source portfolio template for developers. Built with **React + Vit
 
 ## Screenshot
 
-![Template screenshot](https://pikwy.com/web/6a2cf806493451668216b894)
+![Template screenshot](./public/preview.jpg)
 
 ## ✨ Features
 
